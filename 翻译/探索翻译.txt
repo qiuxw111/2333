@@ -1,0 +1,15 @@
+  <string name="explore_dapp_disclaimer_title">责任声明Statement of liability</string>
+    <string name="explore_dapp_disclaimer">您即将使用第三方DApp,确认即同意第三方的用户协议和隐私政策，您在这一DApp中的所有行为和使用情况，均由该DApp的供应商负责。You are about to use a third-party DApp, confirm that you agree to the third-party user agreement and privacy policy, and all your actions and usage in this DApp are the responsibility of the DApp vendor.</string>
+    <string name="explore_dg_create">立即创建Create now</string>
+    <string name="explore_dg_change">立即切换Switch now</string>
+    <string name="explore_dg_login">立即登录log in</string>
+    <string name="explore_dg_cancel">考虑一下Later</string>
+    <string name="explore_dg_experience">开始体验Start</string>
+    <string name="explore_dg_experience_title">探索精彩DAppExplore theDapp</string>
+    <string name="explore_dg_experience_content">什么是DApp?DApp就是区块链上的应用，快和我一起来体验下吧What is DApp? DApp is an application on the blockchain. Come and experience it.</string>
+
+    <string name="explore_lastapp">最近使用Recently Used</string>
+
+
+    <string name="explore_show_all">全部All</string>
+    <string name="explore_all_dapp">应用application</string>

@@ -1,0 +1,36 @@
+'钱包入币'Wallet deposit
+'关联入币'Associated deposit
+'系统入币'System deposit
+'内部转账'Internal transfer
+'钱包出币'Wallet withdrawal
+'关联出币'Associated withdrawal
+'系统出币'System withdrawal
+'红包'Red packet
+'红包退回'Red packet return
+'云矿机'minner
+'游戏投注'Game bet
+'奖金'bonus
+'投注退回'withdrawal
+'实名认证奖励'Real name certification reward
+'推广认证奖励'Promotional rewards
+'达标认证奖励'Achievement rewards
+'注册奖励'Registration rewards
+'VIP认证金'VIP Certification
+'VIP认证金退回'VIP Certification withdraw
+'OTC划转兑出'OTC transfer out
+'OTC划转兑入'OTC transfer in
+'冻结'Frozen
+'解冻'Thawed
+'签到奖励'Sign-in reward
+'打赏'Reward
+'闪兑'
+'购买矿机'Buy miner
+'矿机退回'Miner withdraw
+'矿机本金退回'Miner principal withdraw
+'矿机利息'Miner interest
+'兑换'Exchange
+'兑换退回'Withdraw
+'兑换奖金'Bonus
+'有赞积分兑入'
+'有赞积分兑出'
+'上链购买入'Buy STO 
